@@ -3,6 +3,6 @@ spring:
     name: registry-service
   cloud:
    config:
-    uri: http://20.88.168.111:8888
+    uri: http://52.190.42.35:8888
     username: root
     password: pr0y3ct1
